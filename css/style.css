@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    background-image: linear-gradient( rgb(234, 240, 245),rgb(234, 240, 245));
+    background-image: linear-gradient( rgba(240, 216, 250, 0.582),rgb(225, 217, 230));
 }
 .header-bg-color{
     background-color: #264653;
@@ -28,4 +28,8 @@ h1{
 .vdo{
     width:400px; 
     height:400px;
+}
+.client-img{
+    width: 150px;
+    height: 150px;
 }
